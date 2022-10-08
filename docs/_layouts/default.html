@@ -19,14 +19,14 @@
     <h1 class="project-name">Redworth</h1>
     <h2 class="project-tagline" style="font-weight: bold;">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
     {% if site.github.is_project_page %}
+    <a href="aboutProject" class="btn">About the Project</a>
+    <a href="aboutTeam" class="btn">About our Team</a>
     <a href="https://github.com/Redworth" class="btn">View on GitHub (Code & Docs)</a>
     {% endif %}
     {% if site.show_downloads %}
     <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
     <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
     {% endif %}
-    <a href="aboutProject" class="btn">About the Project</a>
-    <a href="aboutTeam" class="btn">About our Team</a>
 </header>
 
 <main id="content" class="main-content" role="main">
