@@ -96,4 +96,4 @@ testing of the finished product
 
 <https://youtu.be/2ThjjeAwD_k>
 
-[![mq2](https://user-images.githubusercontent.com/63020497/209744144-6ad2e2c5-4b73-4883-9f7f-548695b9aaf3.jpg)](https://youtu.be/2ThjjeAwD_k)
+[![mq2](https://user-images.githubusercontent.com/63020497/209744942-3ecf0ca7-24ef-435d-af48-bba8e0f8e8c9.png)](https://youtu.be/2ThjjeAwD_k)
