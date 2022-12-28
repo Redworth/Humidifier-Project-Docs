@@ -65,17 +65,17 @@ Device functionalities:
 
 **Example UI Elements from the Mobile Application:**
 
-![page3image39158800](vertopal_92ca7ee26afa4628b7ff391517958562/media/image1.jpeg)
+![page3image39158800](https://github.com/Redworth/Humidifier-Project-Docs/blob/main/docs/sign_up_photo.jpg?raw=true)
 
 Above: UI for signing up/logging in to a user's account.
 
-![page3image39159424](vertopal_92ca7ee26afa4628b7ff391517958562/media/image2.jpeg)
+![page3image39159424](https://github.com/Redworth/Humidifier-Project-Docs/blob/main/docs/wifi.jpg?raw=true)
 
 Above: UI elements used to connect to a hotspot the humidifier is
 hosting. This hotspot is used to connect to the device directly so Wi-Fi
 information can be exchanged.
 
-![page3image39159008](vertopal_92ca7ee26afa4628b7ff391517958562/media/image3.jpeg)![page3image39159216](vertopal_92ca7ee26afa4628b7ff391517958562/media/image4.jpeg)
+![page3image39159008](https://github.com/Redworth/Humidifier-Project-Docs/blob/main/docs/screen1.jpg?raw=true)![page3image39159216](https://github.com/Redworth/Humidifier-Project-Docs/blob/main/docs/screen2.jpg?raw=true)
 
 Above: UI elements used to control the intensity of a particular
 humidifier.
@@ -83,11 +83,11 @@ humidifier.
 **Humidifier Prototype Development**
 
 ![A picture containing person, indoor Description automatically
-generated](vertopal_92ca7ee26afa4628b7ff391517958562/media/image5.png)
+generated](https://github.com/Redworth/Humidifier-Project-Docs/blob/main/docs/screen3.png?raw=true)
 
 Above: retrofitting an existing humidifier with new IoT technology
 
-![](vertopal_92ca7ee26afa4628b7ff391517958562/media/image6.png)
+![](https://github.com/Redworth/Humidifier-Project-Docs/blob/main/docs/screen4.png?raw=true)
 
 Above: development of software for controlling the humidifier, plus
 testing of the finished product
