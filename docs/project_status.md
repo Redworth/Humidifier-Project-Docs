@@ -19,6 +19,8 @@ Server side:
 -   Application can respond to client request with information and/or
     actions
 
+-   Google Home compatibility completed
+
 Device functionalities:
 
 -   Based on the action command from server, device can control a
@@ -34,9 +36,11 @@ Device functionalities:
     communication is used to provide the information to an Arduino,
     which then controls the humidifier
 
+-   Device is controllable via Redworth mobile application and Google Assistant
+
 **Work in Progress:**
 
--   Working on adding Apple HomeKit, Google Home, and Amazon Alexa
+-   Working on adding Apple HomeKit and Amazon Alexa
     compatibility to the humidifier
 
 -   Working on developing alternative, more efficient, and
